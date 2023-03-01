@@ -4,13 +4,13 @@
 * Preprocessed and extracted aggregated data (metrics) of player's performance throughout the whoel comptition and profiled these players.
 
 ## Plots
-#### [Carries](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)
+#### [Carries](https://github.com/Elmehdi9/World-Cup-Data-Visualization/blob/main/Notebooks/02-%20Carries.ipynb)
 
 * Ball carrying distribution by player.
 * A player's carries that ended in the opponent's half.
 * Calculated the truer progressing carrier and plotted all of their carries.
 ---
-#### [Passes](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)
+#### [Passes](https://github.com/Elmehdi9/World-Cup-Data-Visualization/blob/main/Notebooks/03-%20Passes.ipynb)
 
 * Demonstrated a player's two-footedness by plotting his right and left foot passes.
 * Passing Networks.
@@ -22,7 +22,7 @@
 
 ---
 
-#### [Player performances](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)
+#### [Player performances](https://github.com/Elmehdi9/World-Cup-Data-Visualization/blob/main/Notebooks/04-%20Player%20performance.ipynb)
 
 * Passes pitch plot: included passes, progressive passes, key passes, assists, and passing completion rate. 
 * Carries pitch plot: included carries, progressive carries, attempted dribbles, and succesful dribbles.
@@ -33,7 +33,7 @@
 
 ---
 
-#### [Player profile](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)
+#### [Player profile](https://github.com/Elmehdi9/World-Cup-Data-Visualization/blob/main/Notebooks/05-%20Player%20profile.ipynb)
 
 * I extracted aggregated data and analyzed a midfielder using a set of on-ball metrics:
 
@@ -41,7 +41,7 @@
 
 ---
 
-#### [Shots](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)
+#### [Shots](https://github.com/Elmehdi9/World-Cup-Data-Visualization/blob/main/Notebooks/06-%20Shots.ipynb)
 
 * Shots taken by players, supported with number of shots, goals, xG (expected goals) and xG per shot
 * Shots taken during a match
