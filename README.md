@@ -47,4 +47,4 @@
 * Shots taken during a match
 
 
-<img src="Plots/Shots-1.png" alt="Alternative text" style="display:block; margin:auto;"  height="600" />
+<img src="Plots/shots-1.png" alt="Alternative text" style="display:block; margin:auto;"  height="600" />
